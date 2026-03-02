@@ -7,7 +7,6 @@ node_modules
 .idea/
 *.log
 .env.mobile
-.env
 .env.dev
 ios/App/App/GoogleService-Info.plist
 android/app/google-services.json
@@ -86,3 +85,4 @@ internal/Certificates_p12.p12
 internal/AuthKey_8P7Y3V99PJ.p8
 internal/CICD.mobileprovision
 internal/Certificates.p12
+config.bat
